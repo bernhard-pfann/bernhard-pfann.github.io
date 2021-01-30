@@ -8,7 +8,7 @@
 - Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
 - [Published article](https://bernhard-pfann.medium.com/tackling-uno-card-game-with-reinforcement-learning-fad2fc19355c)
 
-![](/projects/p_03/q-curve.png, width = "300")<br><br>
+![](/projects/p_03/q-curve.png = 250x)<br><br>
 ![](/projects/p_03/starting-advantage.png)
 
 ---
