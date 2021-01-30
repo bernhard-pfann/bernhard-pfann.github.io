@@ -18,8 +18,8 @@
 - Scraped publicly available fund data from webpage www.fondsprofessionell.at
 - Scraped publicly available fx rates from ECB to convert financials into common reporting currency
 
-![](/projects/p_02/return.png)<br><br>
-![](/projects/p_02/sectors.png)
+<img src="projects/p_02/return.png" width="320">
+<img src="projects/p_02/sectors.png" width="320">
 
 ---
 
