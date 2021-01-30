@@ -25,13 +25,14 @@
 
 ## [Project 3: Predictive Yield Curve Modeling](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
 The aim of this project is to study the yield curve dynamics in reduced dimensionality by leveraging principal components analysis (PCA).<br><br>
-![](/projects/p_01/yield-curves.png)
+
+<img src="projects/p_01/yield-curves.png" width="500">
 
 - Applied PCA to government yield curve data from ECB (2005-2019)
 - Contrasted PC's with the traditional factors "level", "slope", "curvature"
 - Evaluated the goodness of fit for strongest PC's over time
 - Tested short-term predictability of PC's with autoregressive time series model and ensemble model
 
-![](/projects/p_01/pc-scores.png)
+<img src="projects/p_01/pc-scores.png" width="500">
 
 ---
