@@ -1,8 +1,14 @@
-title: <p align="center">Bernhard Pfann</p>
+title: 
+  <p align="center">
+    Bernhard Pfann
+  </p>
 
-logo: <p align="center">"/images/logo.png?raw=true"</p>
+logo: 
+  <p align="center">
+    "/images/logo.png?raw=true"
+  </p>
 
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description:
   <p align="center"><br>
     Finance professional tapping into data science | MSc Business Analytics | MSc Finance
   </p>
