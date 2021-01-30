@@ -1,28 +1,37 @@
-## Portfolio
+# Project Portfolio
 
 ---
 
-### Category Name 1 
+## [Project 1: Tackling the UNO Card Game with Reinforcement Learning](https://github.com/bernhard-pfann/uno-card-game_rl)
+- Created a game engine of the UNO card game from scratch
+- Obtained game statistics from simulating a series of 100,000 games
+- Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
+- [Published article](https://bernhard-pfann.medium.com/tackling-uno-card-game-with-reinforcement-learning-fad2fc19355c)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![](/assets/uno-q-curve.png)<br><br>
+![](/assets/uno-starting-advantage.png)
 
 ---
 
-### Category Name 2
+## [Project 2: Web Scraping Fund Data & Portfolio Analysis](https://nbviewer.jupyter.org/github/bernhard-pfann/web-scraping-fund-data/blob/main/main.ipynb)
+- Created a tool that stratifies a user-defined portfolio of funds
+- Scraped publicly available fund data from webpage www.fondsprofessionell.at
+- Scraped publicly available fx rates from ECB to convert financials into common reporting currency
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+![](/assets/fund-return.png)<br><br>
+![](/assets/fund-sectors.png)
+
+---
+
+## [Project 3: Predictive Yield Curve Modeling](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
+The aim of this project is to study the yield curve dynamics in reduced dimensionality by leveraging principal components analysis (PCA).<br><br>
+![](/assets/yield-curves.png)
+
+- Applied PCA to government yield curve data from ECB (2005-2019)
+- Contrasted PC's with the traditional factors "level", "slope", "curvature"
+- Evaluated the goodness of fit for strongest PC's over time
+- Tested short-term predictability of PC's with autoregressive time series model and ensemble model
+
+![](/assets/yield-pc-scores.png)
 
 ---
