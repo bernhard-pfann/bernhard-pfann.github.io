@@ -3,7 +3,7 @@
 ---
 
 ## [Project 1: Tackling the UNO Card Game with Reinforcement Learning](https://github.com/bernhard-pfann/uno-card-game_rl)
-- Created a game engine of the UNO card game from scratch
+:arrow_forward: Created a game engine of the UNO card game from scratch
 - Obtained game statistics from simulating a series of 100,000 games
 - Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
 - [Published article](https://bernhard-pfann.medium.com/tackling-uno-card-game-with-reinforcement-learning-fad2fc19355c)
