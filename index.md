@@ -8,8 +8,8 @@
 - Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
 - [Published article](https://bernhard-pfann.medium.com/tackling-uno-card-game-with-reinforcement-learning-fad2fc19355c)
 
-![](/assets/uno-q-curve.png)<br><br>
-![](/assets/uno-starting-advantage.png)
+![](/projects/p_03/q-curve.png)<br><br>
+![](/projects/p_03/starting-advantage.png)
 
 ---
 
@@ -18,20 +18,20 @@
 - Scraped publicly available fund data from webpage www.fondsprofessionell.at
 - Scraped publicly available fx rates from ECB to convert financials into common reporting currency
 
-![](/assets/fund-return.png)<br><br>
-![](/assets/fund-sectors.png)
+![](/projects/p_02/return.png)<br><br>
+![](/projects/p_02/sectors.png)
 
 ---
 
 ## [Project 3: Predictive Yield Curve Modeling](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
 The aim of this project is to study the yield curve dynamics in reduced dimensionality by leveraging principal components analysis (PCA).<br><br>
-![](/assets/yield-curves.png)
+![](/projects/p_01/yield-curves.png)
 
 - Applied PCA to government yield curve data from ECB (2005-2019)
 - Contrasted PC's with the traditional factors "level", "slope", "curvature"
 - Evaluated the goodness of fit for strongest PC's over time
 - Tested short-term predictability of PC's with autoregressive time series model and ensemble model
 
-![](/assets/yield-pc-scores.png)
+![](/projects/p_01/pc-scores.png)
 
 ---
