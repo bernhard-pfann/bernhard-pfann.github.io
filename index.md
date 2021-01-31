@@ -34,5 +34,3 @@ The aim of this project is to study the yield curve dynamics in reduced dimensio
 - Tested short-term predictability of PC's with autoregressive time series model and ensemble model
 
 <img src="projects/p_01/pc-scores.png" width="500">
-
----
