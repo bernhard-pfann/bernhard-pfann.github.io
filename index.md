@@ -3,18 +3,17 @@
 ---
 
 ## [Project 1: Predictive Yield Curve Modeling](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
-This project studies the yield curve dynamics in reduced dimensionality by applying principal components analysis (PCA).<br><br>
+This project studies the yield curve dynamics in reduced dimensionality by applying principal components analysis (PCA).<br>
 
+<img src="projects/p_01/pc-fit-dyn.gif">
 
-
-<u>After the successful yield curve decomposition the following topics have been tackled:</u>
+<u>Following topics have been tackled:</u>
 - Supporting the interpretation of the first 3 principal components (PCs) in accordance with traditional (shift,slope,curvature) factors
 - Testing out-of-sample fit for model yield curves, generated from reduced principal components set
 - Derivation of non-linear stress scenarios for each component (1-month ahead 95% confidence)
 - Testing predictability with an autoregressive timeseries model
 
-<img src="projects/p_01/pc-fit-dyn.gif" width=500>
-<img src="projects/p_01/pc-scores-dyn.gif" width=500>
+<img src="projects/p_01/pc-scores-dyn.gif">
 
 ---
 
@@ -24,8 +23,8 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 - Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
 - [Published article](https://bernhard-pfann.medium.com/tackling-uno-card-game-with-reinforcement-learning-fad2fc19355c)
 
-<img src="projects/p_03/q-curve.png" width="500">
-<img src="projects/p_03/starting-advantage.png" width="500">
+<img src="projects/p_03/q-curve.png" width="550">
+<img src="projects/p_03/starting-advantage.png" width="550">
 
 ---
 
@@ -34,5 +33,5 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 - Scraped publicly available fund data from webpage www.fondsprofessionell.at
 - Scraped publicly available fx rates from ECB to convert financials into common reporting currency
 
-<img src="projects/p_02/return.png" width="500">
-<img src="projects/p_02/sectors.png" width="500">
+<img src="projects/p_02/return.png" width="550">
+<img src="projects/p_02/sectors.png" width="550">
