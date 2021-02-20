@@ -23,8 +23,8 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 - Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
 - [Published article](https://bernhard-pfann.medium.com/tackling-uno-card-game-with-reinforcement-learning-fad2fc19355c)
 
-<img src="projects/p_03/q-curve.png" width="550">
-<img src="projects/p_03/starting-advantage.png" width="550">
+<img src="projects/p_03/q-curve.png">
+<img src="projects/p_03/starting-advantage.png">
 
 ---
 
@@ -33,5 +33,5 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 - Scraped publicly available fund data from webpage www.fondsprofessionell.at
 - Scraped publicly available fx rates from ECB to convert financials into common reporting currency
 
-<img src="projects/p_02/return.png" width="550">
-<img src="projects/p_02/sectors.png" width="550">
+<img src="projects/p_02/return.png">
+<img src="projects/p_02/sectors.png">
