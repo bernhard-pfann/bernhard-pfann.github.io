@@ -5,7 +5,7 @@
 ## [Project 1: Predictive Yield Curve Modeling](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
 This project studies the yield curve dynamics in reduced dimensionality by applying principal components analysis (PCA).<br><br>
 
-<img src="projects/p_01/pc-fit-dyn.gif">
+
 
 <u>After the successful yield curve decomposition the following topics have been tackled:</u>
 - Supporting the interpretation of the first 3 principal components (PCs) in accordance with traditional (shift,slope,curvature) factors
@@ -13,7 +13,8 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 - Derivation of non-linear stress scenarios for each component (1-month ahead 95% confidence)
 - Testing predictability with an autoregressive timeseries model
 
-<img src="projects/p_01/pc-scores-dyn.gif">
+<img src="projects/p_01/pc-fit-dyn.gif" width=500>
+<img src="projects/p_01/pc-scores-dyn.gif" width=500>
 
 ---
 
