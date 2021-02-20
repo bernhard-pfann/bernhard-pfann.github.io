@@ -8,7 +8,7 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 <img src="projects/p_01/pc-fit-dyn.gif">
 
 <u>Following topics have been tackled:</u>
-- Supporting the interpretation of the first 3 principal components (PCs) in accordance with traditional (shift,slope,curvature) factors
+- Supporting the interpretation of the first 3 principal components (PCs) in accordance with traditional (level, slope, curvature) factors
 - Testing out-of-sample fit for model yield curves, generated from reduced principal components set
 - Derivation of non-linear stress scenarios for each component (1-month ahead 95% confidence)
 - Testing predictability with an autoregressive timeseries model
