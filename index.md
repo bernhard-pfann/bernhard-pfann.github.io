@@ -2,7 +2,22 @@
 
 ---
 
-## [Project 1: Tackling the UNO Card Game with Reinforcement Learning](https://github.com/bernhard-pfann/uno-card-game_rl)
+## [Project 1: Predictive Yield Curve Modeling](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
+This project studies the yield curve dynamics in reduced dimensionality by applying principal components analysis (PCA).<br><br>
+
+<img src="projects/p_01/pc-fit-dyn.gif">
+
+<u>After the successful yield curve decomposition the following topics have been tackled:</u>
+- Supporting the interpretation of the first 3 principal components (PCs) in accordance with traditional (shift,slope,curvature) factors
+- Testing out-of-sample fit for model yield curves, generated from reduced principal components set
+- Derivation of non-linear stress scenarios for each component (1-month ahead 95% confidence)
+- Testing predictability with an autoregressive timeseries model
+
+<img src="projects/p_01/pc-scores-dyn.gif">
+
+---
+
+## [Project 2: Tackling the UNO Card Game with Reinforcement Learning](https://github.com/bernhard-pfann/uno-card-game_rl)
 - Created a game engine of the UNO card game from scratch
 - Obtained game statistics from simulating a series of 100,000 games
 - Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
@@ -13,24 +28,10 @@
 
 ---
 
-## [Project 2: Web Scraping Fund Data & Portfolio Analysis](https://nbviewer.jupyter.org/github/bernhard-pfann/web-scraping-fund-data/blob/main/main.ipynb)
+## [Project 3: Web Scraping Fund Data & Portfolio Analysis](https://nbviewer.jupyter.org/github/bernhard-pfann/web-scraping-fund-data/blob/main/main.ipynb)
 - Created a tool that stratifies a user-defined portfolio of funds
 - Scraped publicly available fund data from webpage www.fondsprofessionell.at
 - Scraped publicly available fx rates from ECB to convert financials into common reporting currency
 
 <img src="projects/p_02/return.png" width="500">
 <img src="projects/p_02/sectors.png" width="500">
-
----
-
-## [Project 3: Predictive Yield Curve Modeling](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
-The aim of this project is to study the yield curve dynamics in reduced dimensionality by leveraging principal components analysis (PCA).<br><br>
-
-<img src="projects/p_01/yield-curves.png" width="500">
-
-- Applied PCA to government yield curve data from ECB (2005-2019)
-- Contrasted PC's with the traditional factors "level", "slope", "curvature"
-- Evaluated the goodness of fit for strongest PC's over time
-- Tested short-term predictability of PC's with autoregressive time series model and ensemble model
-
-<img src="projects/p_01/pc-scores.png" width="500">
