@@ -3,7 +3,7 @@
 ---
 
 ## [Project 1: Predictive Yield Curve Modeling](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
-This project studies the yield curve dynamics in reduced dimensionality by applying principal components analysis (PCA). For details [see Article](https://bernhard-pfann.medium.com/decomposing-predicting-the-euro-yield-curve-b3ad1670fdbb)<br>
+This project studies the yield curve dynamics in reduced dimensionality by applying principal components analysis (PCA). For details [see Article](https://bernhard-pfann.medium.com/decomposing-predicting-the-euro-yield-curve-b3ad1670fdbb).<br>
 
 <img src="projects/p_01/pc-fit-dyn.gif">
 
@@ -21,7 +21,7 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 - Created a game engine of the UNO card game from scratch
 - Obtained game statistics from simulating a series of 100,000 games
 - Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
-- [Published article](https://bernhard-pfann.medium.com/tackling-uno-card-game-with-reinforcement-learning-fad2fc19355c)
+- [See article](https://bernhard-pfann.medium.com/tackling-uno-card-game-with-reinforcement-learning-fad2fc19355c)
 
 <img src="projects/p_03/q-curve.png">
 <img src="projects/p_03/starting-advantage.png">
