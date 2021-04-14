@@ -15,7 +15,7 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 - Testing out-of-sample fit for model yield curves, generated from reduced PC set
 - Derivation of non-linear stress scenarios for each component (1-month ahead 95% confidence)
 - Testing predictability with an autoregressive timeseries model
-- [See Article](https://bernhard-pfann.medium.com/decomposing-predicting-the-euro-yield-curve-b3ad1670fdbb)
+- [See article](https://bernhard-pfann.medium.com/decomposing-predicting-the-euro-yield-curve-b3ad1670fdbb)
 
 ---
 
