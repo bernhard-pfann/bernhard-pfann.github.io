@@ -6,8 +6,8 @@
 This project studies the yield curve dynamics in reduced dimensionality by applying principal components analysis (PCA).<br>
 
 <div class="nav3">
-  <img src="projects/p_01/pc-fit-dyn.gif" width="300">
-  <img src="projects/p_01/pc-scores-dyn.gif" width="300">
+  <img src="projects/p_01/pc-fit-dyn.gif" width="320">
+  <img src="projects/p_01/pc-scores-dyn.gif" width="320">
 </div>
 
 <u>Following topics have been tackled:</u>
