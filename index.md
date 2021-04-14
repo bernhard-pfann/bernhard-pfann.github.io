@@ -10,7 +10,7 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
   <img src="projects/p_01/pc-scores-dyn.gif" width="320">
 </div>
 
-<u>Following topics have been tackled:</u>
+<u>Executive Summary:</u>
 - Supporting the interpretation of the first 3 principal components (PCs) in accordance with traditional (level, slope, curvature) factors
 - Testing out-of-sample fit for model yield curves, generated from reduced PC set
 - Derivation of non-linear stress scenarios for each component (1-month ahead 95% confidence)
@@ -20,6 +20,7 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 ---
 
 ## [Project 2: Tackling the UNO Card Game with Reinforcement Learning](https://github.com/bernhard-pfann/uno-card-game_rl)
+<u>Executive Summary:</u>
 - Created a game engine of the UNO card game from scratch
 - Obtained game statistics from simulating a series of 100,000 games
 - Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
@@ -31,6 +32,7 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 ---
 
 ## [Project 3: Web Scraping Fund Data & Portfolio Analysis](https://nbviewer.jupyter.org/github/bernhard-pfann/web-scraping-fund-data/blob/main/main.ipynb)
+<u>Executive Summary:</u>
 - Created a tool that stratifies a user-defined portfolio of funds
 - Scraped publicly available fund data from webpage www.fondsprofessionell.at
 - Scraped publicly available fx rates from ECB to convert financials into common reporting currency
