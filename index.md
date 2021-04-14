@@ -12,7 +12,7 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 
 <u>Following topics have been tackled:</u>
 - Supporting the interpretation of the first 3 principal components (PCs) in accordance with traditional (level, slope, curvature) factors
-- Testing out-of-sample fit for model yield curves, generated from reduced principal components set
+- Testing out-of-sample fit for model yield curves, generated from reduced PC set
 - Derivation of non-linear stress scenarios for each component (1-month ahead 95% confidence)
 - Testing predictability with an autoregressive timeseries model
 - [See Article](https://bernhard-pfann.medium.com/decomposing-predicting-the-euro-yield-curve-b3ad1670fdbb)
