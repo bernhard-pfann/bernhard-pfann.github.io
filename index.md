@@ -6,13 +6,16 @@
 In this project I attempt to model the traffic-density for the City of Vienna solely based on publicly available data.
 
 <div class="nav3">
-  <img src="projects/p_01/pc-fit-dyn.gif" width="320">
-  <img src="projects/p_01/pc-scores-dyn.gif" width="320">
+  <img src="projects/p_04/coefs-distribution-scenarios.png" width="320">
+  <img src="projects/p_04/coefs-map-allday.png" width="320">
 </div>
 
 <u>Executive Summary:</u>
-- blabla
-- blabla
+- Initialize a network graph consisting of all officially recorded streets of the City of Vienna
+- Dervie the shortest path of streets between pairs of start/end-nodes in the network
+- Collect shortest path information for every start/end combination observed in the set of Uber rides
+- Frame a constrained optimiziation problem to derive "traffic-coefficients" per each area, representing traffic-density
+- Analyze traffic-density per area during different times of the day
 
 ---
 
