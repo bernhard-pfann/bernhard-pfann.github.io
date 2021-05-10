@@ -2,12 +2,12 @@
 
 ---
 
-## [Project 05/2021: Modelling Traffic-Density for the City of Vienna](https://github.com/bernhard-pfann/vienna-traffic-density)
+## [Project 05/21: Modelling Traffic Density of Vienna](https://github.com/bernhard-pfann/vienna-traffic-density)
 In this project I attempt to model the traffic-density for the City of Vienna solely based on publicly available data.
 
 <div class="nav3">
-  <img src="projects/p_04/coefs-distribution-scenarios.png" width="320">
-  <img src="projects/p_04/coefs-map-allday.png" width="320">
+  <img src="projects/p_04/coefs-distribution-scenarios.png" width="320" align="center">
+  <img src="projects/p_04/coefs-map-allday.png" width="320" align="center">
 </div>
 
 <u>Executive Summary:</u>
