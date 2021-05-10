@@ -2,18 +2,18 @@
 
 ---
 
-## [Project 05/21: Modelling Traffic Density of Vienna](https://github.com/bernhard-pfann/vienna-traffic-density)
-In this project I attempt to model the traffic-density for the City of Vienna solely based on publicly available data.
+## [Project 05/2021: Modelling Traffic Density of Vienna](https://github.com/bernhard-pfann/vienna-traffic-density)
+In this project I attempt to model the traffic density for the City of Vienna solely based on publicly available data from http://data.gv.at and https://movement.uber.com/.
 
 <div class="nav3">
-  <img src="projects/p_04/coefs-distribution-scenarios.png" width="320" align="center">
-  <img src="projects/p_04/coefs-map-allday.png" width="320" align="center">
+  <img src="projects/p_04/coefs-distribution-scenarios.png" width="320" align="top">
+  <img src="projects/p_04/coefs-map-allday.png" width="320" align="top">
 </div>
 
 <u>Executive Summary:</u>
 - Initialize a network graph consisting of all officially recorded streets of the City of Vienna
 - Dervie the shortest path of streets between pairs of start/end-nodes in the network
-- Collect shortest path information for every start/end combination observed in the set of Uber rides
+- Collect path information for every start/end combination within the set of Uber rides
 - Frame a constrained optimiziation problem to derive "traffic-coefficients" per each area, representing traffic-density
 - Analyze traffic-density per area during different times of the day
 
