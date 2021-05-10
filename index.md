@@ -6,8 +6,8 @@
 In this project I attempt to model the traffic density for the City of Vienna solely based on publicly available data.
 
 <div class="nav3">
-  <img src="projects/p_04/coefs-distribution-scenarios.png" width="320" align="bottom">
-  <img src="projects/p_04/coefs-map-allday.png" width="320" align="bottom">
+  <img src="projects/p_04/coefs-distribution-scenarios.png" width="320" align="top">
+  <img src="projects/p_04/coefs-map-allday.png" width="320" align="top">
 </div>
 
 <u>Executive Summary:</u>
