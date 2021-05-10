@@ -3,7 +3,7 @@
 ---
 
 ## [Project 05/2021: Modelling Traffic Density of Vienna](https://github.com/bernhard-pfann/vienna-traffic-density)
-In this project I attempt to model the traffic density for the City of Vienna solely based on publicly available data from http://data.gv.at and https://movement.uber.com/.
+In this project I attempt to model the traffic density for the City of Vienna solely based on publicly available data.
 
 <div class="nav3">
   <img src="projects/p_04/coefs-distribution-scenarios.png" width="320" align="top">
@@ -37,16 +37,18 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 ---
 
 ## [Project 01/2021: Tackling the UNO Card Game with Reinforcement Learning](https://github.com/bernhard-pfann/uno-card-game_rl)
-<u>Executive Summary:</u>
-- Created a game engine of the UNO card game from scratch
-- Obtained game statistics from simulating a series of 100,000 games
-- Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
-- [See article](https://bernhard-pfann.medium.com/tackling-uno-card-game-with-reinforcement-learning-fad2fc19355c)
+This project is able to simulate the UNO card game and is thereby able to train an intelligent agent to find an optimal playing strategy.
 
 <div class="nav3">
   <img src="projects/p_03/q-curve.png" width="320">
   <img src="projects/p_03/starting-advantage.png" width="320">
 </div>
+
+<u>Executive Summary:</u>
+- Created a game engine of the UNO card game from scratch
+- Obtained game statistics from simulating a series of 100,000 games
+- Implemented Reinforcement Learning agent (Q-Learning, Monte Carlo) in order to discover an optimal game strategy
+- [See article](https://bernhard-pfann.medium.com/tackling-uno-card-game-with-reinforcement-learning-fad2fc19355c)
 
 ---
 
@@ -57,6 +59,6 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 - Scraped publicly available fx rates from ECB to convert financials into common reporting currency
 
 <div class="nav3">
-  <img src="projects/p_02/return.png" width="320">
-  <img src="projects/p_02/sectors.png" width="320">
+  <img src="projects/p_02/return.png" width="320" align="top">
+  <img src="projects/p_02/sectors.png" width="320" align="top">
 </div>
