@@ -12,10 +12,10 @@ In this project I attempt to model the traffic density for the City of Vienna so
 
 <u>Executive Summary:</u>
 - Initialize a network graph consisting of all officially recorded streets of the City of Vienna
-- Dervie the shortest path of streets between pairs of start/end-nodes in the network
-- Collect path information for every start/end combination within the set of Uber rides
-- Frame a constrained optimiziation problem to derive "traffic-coefficients" per each area, representing traffic-density
+- Dervie the shortest path through the networkf or every start/end combination within the set of Uber rides
+- Frame a constrained optimiziation problem to derive "density-coefficients" per each area
 - Analyze traffic-density per area during different times of the day
+- [See article](https://bernhard-pfann.medium.com/modeling-traffic-density-of-the-city-of-vienna-c41480c35523)
 
 ---
 
