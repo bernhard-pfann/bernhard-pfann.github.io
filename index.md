@@ -2,7 +2,7 @@
 
 ---
 
-## [05/2021: Modelling Traffic Density of Vienna](https://github.com/bernhard-pfann/vienna-traffic-density)
+## [05/2021: Modeling Traffic Density of Vienna](https://github.com/bernhard-pfann/vienna-traffic-density)
 In this project I attempt to model the traffic density for the City of Vienna solely based on publicly available data.
 
 <div class="nav3">
