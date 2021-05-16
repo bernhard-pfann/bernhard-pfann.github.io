@@ -19,7 +19,7 @@ In this project I attempt to model the traffic density for the City of Vienna so
 
 ---
 
-## [Predictive Yield Curve Modeling(02/2021)](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
+## [Predictive Yield Curve Modeling (02/2021)](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
 This project studies the yield curve dynamics in reduced dimensionality by applying principal components analysis (PCA).<br>
 
 <div class="nav3">
