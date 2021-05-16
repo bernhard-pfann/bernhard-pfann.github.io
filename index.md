@@ -2,7 +2,7 @@
 
 ---
 
-## [05/2021: Modeling Traffic Density of Vienna](https://github.com/bernhard-pfann/vienna-traffic-density)
+## [Modeling Traffic Density of Vienna (05/2021)](https://github.com/bernhard-pfann/vienna-traffic-density)
 In this project I attempt to model the traffic density for the City of Vienna solely based on publicly available data.
 
 <div class="nav3">
@@ -19,7 +19,7 @@ In this project I attempt to model the traffic density for the City of Vienna so
 
 ---
 
-## [02/2021: Predictive Yield Curve Modeling](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
+## [Predictive Yield Curve Modeling(02/2021)](https://github.com/bernhard-pfann/pca-yield-curve-analytics)
 This project studies the yield curve dynamics in reduced dimensionality by applying principal components analysis (PCA).<br>
 
 <div class="nav3">
@@ -36,7 +36,7 @@ This project studies the yield curve dynamics in reduced dimensionality by apply
 
 ---
 
-## [01/2021: Tackling the UNO Card Game with Reinforcement Learning](https://github.com/bernhard-pfann/uno-card-game_rl)
+## [Tackling the UNO Card Game with Reinforcement Learning (01/2021)](https://github.com/bernhard-pfann/uno-card-game_rl)
 This project is able to simulate the UNO card game and is thereby able to train an intelligent agent to find an optimal playing strategy.
 
 <div class="nav3">
@@ -52,7 +52,7 @@ This project is able to simulate the UNO card game and is thereby able to train 
 
 ---
 
-## [11/2020: Web Scraping Fund Data & Portfolio Analysis](https://nbviewer.jupyter.org/github/bernhard-pfann/web-scraping-fund-data/blob/main/main.ipynb)
+## [Web Scraping Fund Data & Portfolio Analysis (11/2020)](https://nbviewer.jupyter.org/github/bernhard-pfann/web-scraping-fund-data/blob/main/main.ipynb)
 <u>Executive Summary:</u>
 - Created a tool that stratifies a user-defined portfolio of funds
 - Scraped publicly available fund data from webpage www.fondsprofessionell.at
